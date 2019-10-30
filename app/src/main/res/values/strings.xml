@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IDIC</string>
+    <string name="title_album">앨범</string>
+    <string name="title_camera">카메라</string>
+    <string name="title_confirm">확인</string>
+    <string name="title_cancel">취소</string>
+
+    <string name="title_back">뒤로가기</string>
+
+
+    <!-- Ted Permission -->
+    <string name="permission_1">[설정] > [권한] 에서 권한을 허용할 수 있습니다.</string>
+    <string name="permission_2">사진 및 파일을 저장하기 위하여 접근 권한이 필요합니다.</string>
+    <string name="title_activity_crop2">Crop2Activity</string>
+</resources>
